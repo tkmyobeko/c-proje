@@ -1,0 +1,25 @@
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\bin\Debug\WindowsFormsApplication32.exe
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\bin\Debug\WindowsFormsApplication32.pdb
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csproj.GenerateResource.Cache
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.exe
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.pdb
+C:\Users\berkant\documents\visual studio 2010\Projects\WindowsFormsApplication32\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csprojResolveAssemblyReference.cache
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.exe
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.pdb
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\bin\Debug\WindowsFormsApplication32.exe
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\bin\Debug\WindowsFormsApplication32.pdb
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csprojResolveAssemblyReference.cache
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\Documents\Visual Studio 2010\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csproj.GenerateResource.Cache
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\bin\Debug\WindowsFormsApplication32.exe
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\bin\Debug\WindowsFormsApplication32.pdb
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csprojAssemblyReference.cache
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csproj.GenerateResource.cache
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.csproj.CoreCompileInputs.cache
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.exe
+C:\Users\berkant\Desktop\gp odevi\Projects\kutu_vurma_oyunu 2\WindowsFormsApplication32\obj\x86\Debug\WindowsFormsApplication32.pdb
